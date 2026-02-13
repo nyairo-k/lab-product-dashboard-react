@@ -40,3 +40,9 @@
 .read-the-docs {
   color: #888;
 }
+
+
+.outOfStock {
+  opacity: 0.5;
+  background-color: #f5f5f5;
+}
